@@ -18,6 +18,9 @@ fun_shoulderAFR = angle épaule (flexion-extension-rotation)
 fun_wristF_handP = angle poignet-main (flexion-extension-prono-suppination)
 
 
+fun_xprocessData = fonction permettant l'interpolation des données (clustering)
+
+
 Ces fonctions sont utilisables principalement sur des logiciels comme Python ou Collab. 
 
 Bonne journée
