@@ -2,7 +2,6 @@ Bonjour,
 
 Ici sont regroupées les fonctions permettant le calcul des angles de la cheville, genou, hanche, poignet, coude et épaule.
 
-ces données sont utilisables pour le traitement des données avec capteurs comme qualysis 
 
 fun_ankleF_feetR = angle cheville-pied (flexion-extension)
 
