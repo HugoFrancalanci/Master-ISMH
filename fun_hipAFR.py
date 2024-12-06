@@ -1,5 +1,3 @@
-#A VOIR AVEC MONSIEUR HYBOIS (FLEXION OK / ADDUCTION ET/OU ROTATION NON)
-
 import numpy as np
 import kineticstoolkit.lab as ktk
 import matplotlib.pyplot as plt
