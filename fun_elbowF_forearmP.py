@@ -6,7 +6,7 @@ import numpy as np
 from fun_XprocessData import obtenir_max_points
 
 c3d_filenames = [
-    r"C:\Users\Francalanci Hugo\Desktop\CMP II (10)\Mémoire\Protocole\Motion capture\Code traitement données\Python\Code 3D\Final\habiletes_tests\THM_S1_M1.c3d"
+    #chemin
 ] 
  
 num_points = obtenir_max_points(c3d_filenames)
