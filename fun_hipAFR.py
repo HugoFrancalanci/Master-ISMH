@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from fun_XprocessData import obtenir_max_points
 
 c3d_filenames = [
-    r"C:\Users\Francalanci Hugo\Desktop\CMP II (10)\Mémoire\Protocole\Motion capture\Code traitement données\Python\Code 3D\Final\Code\STAGE_M1\Test_donnees\HIP_TEST.c3d"
+    #chemin
 ] 
  
 num_points = obtenir_max_points(c3d_filenames)
