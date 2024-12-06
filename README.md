@@ -20,7 +20,6 @@ fun_wristF_handP = angle poignet-main (flexion-extension-prono-suppination)
 fun_XprocessData = fonction permettant l'interpolation des données (clustering)
 
 
-Ces fonctions sont utilisables principalement sur des logiciels comme Python ou Collab. 
-Ces données sont surtout faites pour le traitement de données avec capteurs comme qualysis 
+Ces fonctions sont utilisables principalement sur des logiciels comme Python ou Collab et pour traiter des données avec capteurs comme qualisys 
 
 Bonne journée
