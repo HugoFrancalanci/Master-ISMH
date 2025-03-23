@@ -1,9 +1,5 @@
-Bonjour,
+Ce dépôt contient les principaux scripts permettant d'appliquer les fonctions développées dans les différentes sous-branches.
 
-Voici les codes principaux qui permetttent d'appliquer les fonctions données dans les sous-branches.
+COMP_6_ANGLES : Script principal pour l'obtention des valeurs et des graphiques des angles des six articulations, comme détaillé dans la sous-branche Cinématique.
 
-COMP_6_ANGLES = obtention des valeurs et graphiques des angles des six articulations fournis dans la sous-branche "Cinématique".
-
-sous-branche utils = fonction utile au traitement de données C3D pour filtrer, reconstruire, etc.
-
-Bonne journée
+Sous-branche utils : Contient des fonctions utiles au traitement des fichiers C3D, notamment pour le filtrage, la reconstruction des données, etc.
