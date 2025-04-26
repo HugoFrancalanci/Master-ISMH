@@ -40,5 +40,3 @@ Il centralise les fonctions et scripts nécessaires pour extraire, corriger et a
 - Proposer une **pipeline de traitement intégrée** pour synchroniser et analyser les données mouvement et EMG ensemble.
 
 ---
-
-
